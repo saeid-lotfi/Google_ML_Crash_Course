@@ -1,2 +1,2 @@
-# Google_ML_Crash_Course
+# Google ML Crash Course
 Programming exercises and notebooks related to Google machine learning crash course
